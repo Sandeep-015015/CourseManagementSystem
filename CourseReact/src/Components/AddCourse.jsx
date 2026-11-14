@@ -38,10 +38,10 @@ const AddCourse = ({ refresh, goBack }) => {
 
     return (
         <div>
-            <h2>Add Course</h2>
+            <h2>Add course</h2>
 
             <div>
-                <label>Course Name: </label>
+                <label>course Name: </label>
                 <input type="text" value={courseName}
                     onChange={e => setCourseName(e.target.value)} />
             </div>
@@ -49,7 +49,7 @@ const AddCourse = ({ refresh, goBack }) => {
             <br />
 
             <div>
-                <label>Technology: </label>
+                <label>technology: </label>
                 <input type="text" value={technology}
                     onChange={e => setTechnology(e.target.value)} />
             </div>
