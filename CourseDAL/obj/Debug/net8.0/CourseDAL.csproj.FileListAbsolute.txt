@@ -1,0 +1,14 @@
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\obj\Debug\net8.0\CourseDAL.csproj.AssemblyReference.cache
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\obj\Debug\net8.0\CourseDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\obj\Debug\net8.0\CourseDAL.AssemblyInfoInputs.cache
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\obj\Debug\net8.0\CourseDAL.AssemblyInfo.cs
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\obj\Debug\net8.0\CourseDAL.csproj.CoreCompileInputs.cache
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\bin\Debug\net8.0\CourseDAL.deps.json
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\bin\Debug\net8.0\CourseDAL.runtimeconfig.json
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\bin\Debug\net8.0\CourseDAL.dll
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\bin\Debug\net8.0\CourseDAL.pdb
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\obj\Debug\net8.0\CourseDAL.dll
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\obj\Debug\net8.0\refint\CourseDAL.dll
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\obj\Debug\net8.0\CourseDAL.pdb
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\obj\Debug\net8.0\CourseDAL.genruntimeconfig.cache
+C:\Users\sandeep.kumar.bheema\Downloads\StudentCourseManagement\CourseDAL\obj\Debug\net8.0\ref\CourseDAL.dll

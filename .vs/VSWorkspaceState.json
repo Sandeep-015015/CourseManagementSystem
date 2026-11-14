@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CourseAPI",
+    "\\CourseAPI\\Controllers",
+    "\\CourseDAL",
+    "\\CourseReact",
+    "\\CourseReact\\src",
+    "\\CourseReact\\src\\Components",
+    "\\CourseReact\\src\\Services"
+  ],
+  "SelectedNode": "\\CourseAPI\\Controllers\\CourseController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CourseAPI/CourseAPI.csproj" />
+  <Project Path="CourseDAL/CourseDAL.csproj" />
+</Solution>
