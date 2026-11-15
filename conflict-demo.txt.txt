@@ -1,1 +1,2 @@
-Welcome to the Student Course Management
+Welcome to Student Management System
+Welcome to Course Management System
